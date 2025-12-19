@@ -1,2 +1,0 @@
-/usr/bin/ar qc libturkification.a CMakeFiles/turkification.dir/turkification.cpp.o
-/usr/bin/ranlib libturkification.a
