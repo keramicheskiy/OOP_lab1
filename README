@@ -1,0 +1,13 @@
+#ВАРИАНТ 19.
+
+#Компиляция:
+mkdir build
+cd build
+cmake ..
+cmake --build .
+
+#Для тестов:
+ctest
+
+#Для ручной проверки:
+./main

@@ -1,0 +1,6 @@
+TurkifcationTest.UndefinedBehaviour 1 0.00319406
+TurkificationTest.UndefinedBehaviour 12 0.000169602
+TurkificationTest.Units 9 0.00022957
+TurkificationTest.Tens 3 0.000636004
+TurkificationTest.CompositeNumbers 4 0.00038191
+---
